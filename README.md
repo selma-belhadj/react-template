@@ -1,56 +1,51 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Math Magicians
 
-> Description the project.
+> Set up a React web app as a template for projects.
+- You can use this template as a setup for your React projects 
+- This template include the most important linters, Linter is a tool that analyzes your source code to flag programming errors, bugs, stylistic errors, and suspicious constructs 
+
 
 
 ## Built With
+- HTML & CSS & JavaScript
+- Html, Css & JavaScript linters
+- React.Js
 
-- Major languages
-- Frameworks
-- Technologies used
+## Live Demo 
 
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](selmab-react-template.netlify.app)
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+- clone the repository by running\
+    `git clone https://github.com/selma-belhadj/react-template.git`
+- navigate to the folder\
+    `cd math-magicians`
+- Install packages\
+    `npm install`
+- Run the app\
+    `npm start`
+- Eject the app\
+    `npm run eject`
+- Create build app\
+    `npm run build`
+- Test Linters app\
+    `npm run check-linters`
 
 ## Authors
 
-👤 **Author1**
+👤 **Selma Belhadj**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@selma-belhadj](https://github.com/selma-belhadj)
+- Twitter: [@Bel_Selma16](https://twitter.com/Bel_Selma16)
+- LinkedIn: [@selma-belhadj](https://www.linkedin.com/in/selma-belhadj/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -62,12 +57,5 @@ Feel free to check the [issues page](../../issues/).
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
+## 📝  License
 This project is [MIT](./MIT.md) licensed.
