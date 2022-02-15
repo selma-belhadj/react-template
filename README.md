@@ -1,6 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# React Template as a setup for React projects 
+# React Template as a setup for React projects
+
 
 > Set up a React web app as a template for projects.
 - You can use this template as a setup for your React projects 
